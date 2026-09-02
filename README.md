@@ -1,4 +1,5 @@
-# 💫 About Me:
+Hi there, I'm Sadia Sultana 👋
+
 ### 👋 About Me<br><br>- 🔭 I'm currently working on building small projects with **JavaScript** and **React.js** to strengthen my frontend fundamentals<br>- 🤝 I'm looking for help with real-world **React** project structuring and best practices<br>- 🌱 I'm currently learning **JavaScript, TypeScript, DOM manipulation, and React.js**<br>- 💬 Ask me about **frontend basics, JavaScript, or the DOM**<br>- ⚡ Fun fact: I'm on a mission to turn "how does this even work?" into "I built this!" 🚀
 
 
