@@ -1,6 +1,6 @@
 ###Hi there, I'm Sadia Sultana 👋
 <p align="center">
-  <img src="" alt="Banner" width="100%">
+  <img src="92d6dab0-1540-4573-94dd-6a408fcd8cb6.png" alt="Banner" width="100%">
 </p>
 ###  About Me<br><br>- 🔭 I'm currently working on building small projects with **JavaScript** and **React.js** to strengthen my frontend fundamentals<br>- 🤝 I'm looking for help with real-world **React** project structuring and best practices<br>- 🌱 I'm currently learning **JavaScript, TypeScript, DOM manipulation, and React.js**<br>- 💬 Ask me about **frontend basics, JavaScript, or the DOM**<br>- ⚡ Fun fact: I'm on a mission to turn "how does this even work?" into "I built this!" 🚀
 
