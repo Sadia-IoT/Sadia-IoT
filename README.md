@@ -2,7 +2,7 @@
 <p align="center">
   <img src="92d6dab0-1540-4573-94dd-6a408fcd8cb6.png" alt="Banner" width="100%">
 </p>
-## 👩‍💻 About Me<br>
+ 👩‍💻 About Me<br>
 - 🎓 Graduated in EEE from University of Chittagong<br>
 - 🔭 I'm currently working on building small projects with **JavaScript** and **React.js** to strengthen my frontend fundamentals<br>
 - 🤝 I'm looking for help with real-world **React** project structuring and best practices<br>
