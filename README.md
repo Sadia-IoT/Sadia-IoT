@@ -1,8 +1,9 @@
+
 ###  Hi there, I'm Sadia Sultana 👋
 <p align="center">
   <img src="92d6dab0-1540-4573-94dd-6a408fcd8cb6.png" alt="Banner" width="100%">
 </p>
- 👩‍💻 About Me<br>
+## 👩‍💻 About Me<br>
 - 🎓 Graduated in EEE from University of Chittagong<br>
 - 🔭 I'm currently working on building small projects with **JavaScript** and **React.js** to strengthen my frontend fundamentals<br>
 - 🤝 I'm looking for help with real-world **React** project structuring and best practices<br>
@@ -25,7 +26,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Sadia-IoT&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Sadia-IoT&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Sadia-IoT&icon=github&color=0e75b6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
