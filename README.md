@@ -10,7 +10,21 @@
 - 🌱 I'm currently learning **JavaScript, TypeScript, DOM manipulation, and React.js**<br>
 - 💬 Ask me about **frontend basics, JavaScript, or the DOM**<br>
 - ⚡ Fun fact: I'm on a mission to turn "how does this even work?" into "I built this!" 🚀
+<p align="center">
+  <img src="92d6dab0-1540-4573-94dd-6a408fcd8cb6.png" alt="Banner" width="100%">
+</p>
 
+## 👩‍💻 About Me
+
+- 🎓 Graduated in EEE from University of Chittagong
+- 🔭 I'm currently working on building small projects with **JavaScript** and **React.js** to strengthen my frontend fundamentals
+- 🤝 I'm looking for help with real-world **React** project structuring and best practices
+- 🌱 I'm currently learning **JavaScript, TypeScript, DOM manipulation, and React.js**
+- 💬 Ask me about **frontend basics, JavaScript, or the DOM**
+- ⚡ Fun fact: I'm on a mission to turn "how does this even work?" into "I built this!" 🚀
+
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sadiasultana42243@gmail.com)
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sadiasultana42243@gmail.com)
