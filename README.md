@@ -1,7 +1,7 @@
 
 ###  Hi there, I'm Sadia Sultana 👋
 <p align="center">
-  <img src="92d6dab0-1540-4573-94dd-6a408fcd8cb6.png" alt="Banner" width="100%">
+  <img src="githubBanner.png" alt="Banner" width="100%">
 </p>
 
 ## 👩‍💻 About Me
