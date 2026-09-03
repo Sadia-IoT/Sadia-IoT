@@ -2,8 +2,9 @@
 <p align="center">
   <img src="githubBanner.png" alt="Banner" width="100%">
 </p>
-
+<ul align="center">
 <summary><h1 style="display :inline-block">Hi there, I'm Sadia Sultana 👋</summary>  
+  </ul>
 ## 👩‍💻 About Me
 
 - 🎓 Graduated in EEE from University of Chittagong
