@@ -1,9 +1,9 @@
 
-###  Hi there, I'm Sadia Sultana 👋
 <p align="center">
   <img src="githubBanner.png" alt="Banner" width="100%">
 </p>
 
+<summary><h1 style="display :inline-block">Hi there, I'm Sadia Sultana 👋</summary>  
 ## 👩‍💻 About Me
 
 - 🎓 Graduated in EEE from University of Chittagong
