@@ -13,8 +13,6 @@
 - 💬 Ask me about **frontend basics, JavaScript, or the DOM**
 - ⚡ Fun fact: I'm on a mission to turn "how does this even work?" into "I built this!" 🚀
 
-
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sadiasultana42243@gmail.com)
 
