@@ -14,6 +14,7 @@
 - ⚡ Fun fact: I'm on a mission to turn "how does this even work?" into "I built this!" 🚀
 
 ## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sadiasultana42243@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Sadia-IoT)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadia-sultana-eee)
 
